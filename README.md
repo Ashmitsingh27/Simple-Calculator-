@@ -1,5 +1,5 @@
 Simple Calculator
-A modern, responsive Calculator Application built during my CodSoft Web Development Virtual Internship (Feb–Mar 2026).
+A modern, responsive Calculator Application built during the practical of the skills implement
 This project demonstrates core HTML, CSS, and JavaScript skills with a focus on clean UI design and functional logic.
 Features
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
